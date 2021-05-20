@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/2763l/CLionProjects/Iterative-methods/SOR.cpp
+other.h
+C:/Users/2763l/CLionProjects/Iterative-methods/other.h
+iostream
+-
+estimator.h
+C:/Users/2763l/CLionProjects/Iterative-methods/estimator.h
+residuum.h
+C:/Users/2763l/CLionProjects/Iterative-methods/residuum.h
+
+C:/Users/2763l/CLionProjects/Iterative-methods/estimator.h
+
+C:/Users/2763l/CLionProjects/Iterative-methods/other.h
+
+C:/Users/2763l/CLionProjects/Iterative-methods/residuum.h
+
